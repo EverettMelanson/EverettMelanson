@@ -3,7 +3,6 @@
 - 🔭 Currently studying Computer Science at the University of Western Ontario
 - 🌱 Expanding my knowledge in CSS, Javascript, React.js, and Node.js
 - 👯 Looking for a 2021 internship to further develop my skillset
-- 🥅 2021 Goals: Contribute more to Open Source projects
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EverettMelanson&layout=compact&theme=radical)](https://github.com/EverettMelanson/github-readme-stats)
