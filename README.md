@@ -1,4 +1,4 @@
-### Hi there, I'm Everett 👋
+### Hi, welcome to my Github! 👋
 
 - 🔭 Currently studying Computer Science at the University of Western Ontario
 - 🌱 Expanding my knowledge in CSS, Javascript, React.js, and Node.js
