@@ -6,7 +6,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EverettMelanson&layout=compact&theme=radical)](https://github.com/EverettMelanson/github-readme-stats)
-![Everett's GitHub stats](https://github-readme-stats.vercel.app/api?username=EverettMelanson&show_icons=true&theme=radical)
+
 
 
 ### Languages and Tools:
