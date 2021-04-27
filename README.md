@@ -5,7 +5,7 @@
 - 👯 Looking for a 2021 internship to further develop my skillset
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EverettMelanson&layout=compact)](https://github.com/EverettMelanson/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EverettMelanson&layout=compact&theme=radical)](https://github.com/EverettMelanson/github-readme-stats)
 
 
 
