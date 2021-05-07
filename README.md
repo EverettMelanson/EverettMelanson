@@ -1,8 +1,8 @@
 ### Hi, welcome to my Github! 👋
 
-- 🔭 Currently studying Computer Science at the University of Western Ontario
-- 🌱 Expanding my knowledge in CSS, Javascript, React.js, and Node.js
-- 👯 Looking for a 2021 internship to further develop my skillset
+-  Currently studying Computer Science at the University of Western Ontario
+-  Expanding my knowledge in CSS, Javascript, React.js, and Node.js
+-  Looking for a 2021 internship to further develop my skillset
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EverettMelanson&layout=compact&theme=radical)](https://github.com/EverettMelanson/github-readme-stats)
